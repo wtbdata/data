@@ -1,0 +1,97 @@
+line number,contest name,choice name,party name,total votes,percent of votes,registered voters,ballots cast,num Precinct total,num Precinct rptg,over votes,under votes
+1,Presidential Electors (Vote For 1),DEM Joseph R. Biden/Kamala D. Harris,DEM,415861,59.33,942851,0,1323,1323,0,0
+2,Presidential Electors (Vote For 1),REP Donald J. Trump/Mike R. Pence,REP,274348,39.14,942851,0,1323,1323,0,0
+3,Presidential Electors (Vote For 1),LIB Jo Jorgensen/Jeremy Spike Cohen,LIB,8079,1.15,942851,0,1323,1323,0,0
+4,Presidential Electors (Vote For 1),Write-in,NON,2691,0.38,942851,0,1323,1323,0,0
+5,Attorney General (Vote For 1),DEM Josh Shapiro,DEM,428076,62.08,942851,0,1323,1323,0,0
+6,Attorney General (Vote For 1),REP Heather Heidelbaugh,REP,239110,34.67,942851,0,1323,1323,0,0
+7,Attorney General (Vote For 1),LIB Daniel Wassmer,LIB,13127,1.9,942851,0,1323,1323,0,0
+8,Attorney General (Vote For 1),GRN Richard L. Weiss,GRN,8844,1.28,942851,0,1323,1323,0,0
+9,Attorney General (Vote For 1),Write-in,NON,428,0.06,942851,0,1323,1323,0,0
+10,Auditor General (Vote For 1),DEM Nina Ahmad,DEM,383284,56.25,942851,0,1323,1323,0,0
+11,Auditor General (Vote For 1),REP Timothy DeFoor,REP,267618,39.27,942851,0,1323,1323,0,0
+12,Auditor General (Vote For 1),LIB Jennifer Moore,LIB,20374,2.99,942851,0,1323,1323,0,0
+13,Auditor General (Vote For 1),GRN Olivia Faison,GRN,9540,1.4,942851,0,1323,1323,0,0
+14,Auditor General (Vote For 1),Write-in,NON,588,0.09,942851,0,1323,1323,0,0
+15,State Treasurer (Vote For 1),DEM Joe Torsella,DEM,390040,57.34,942851,0,1323,1323,0,0
+16,State Treasurer (Vote For 1),REP Stacy L. Garrity,REP,262785,38.63,942851,0,1323,1323,0,0
+17,State Treasurer (Vote For 1),LIB Joe Soloski,LIB,16556,2.43,942851,0,1323,1323,0,0
+18,State Treasurer (Vote For 1),GRN Timothy Runkle,GRN,10290,1.51,942851,0,1323,1323,0,0
+19,State Treasurer (Vote For 1),Write-in,NON,548,0.08,942851,0,1323,1323,0,0
+20,Representative in Congress 17th District (Vote For 1),DEM Conor Lamb,DEM,172206,53.97,407276,0,493,493,0,0
+21,Representative in Congress 17th District (Vote For 1),REP Sean Parnell,REP,146619,45.95,407276,0,493,493,0,0
+22,Representative in Congress 17th District (Vote For 1),Write-in,NON,280,0.09,407276,0,493,493,0,0
+23,Representative in Congress 18th District (Vote For 1),DEM Mike Doyle,DEM,256615,68.95,538277,0,832,832,0,0
+24,Representative in Congress 18th District (Vote For 1),REP Luke Edison Negron,REP,114771,30.84,538277,0,832,832,0,0
+25,Representative in Congress 18th District (Vote For 1),Write-in,NON,784,0.21,538277,0,832,832,0,0
+26,Senator in the General Assembly 37th District (Vote For 1),DEM Pam Iovino,DEM,77165,49.14,198472,0,214,214,0,0
+27,Senator in the General Assembly 37th District (Vote For 1),REP Devlin Robinson,REP,79730,50.77,198472,0,214,214,0,0
+28,Senator in the General Assembly 37th District (Vote For 1),Write-in,NON,132,0.08,198472,0,214,214,0,0
+29,Senator in the General Assembly 43rd District (Vote For 1),"DEM Jay Costa, Jr.",DEM,114000,97.43,201361,0,305,305,0,0
+30,Senator in the General Assembly 43rd District (Vote For 1),Write-in,NON,3010,2.57,201361,0,305,305,0,0
+31,Senator in the General Assembly 45th District (Vote For 1),DEM Jim Brewster,DEM,55638,52.58,146937,0,234,234,0,0
+32,Senator in the General Assembly 45th District (Vote For 1),REP Nicole Ziccarelli,REP,50053,47.3,146937,0,234,234,0,0
+33,Senator in the General Assembly 45th District (Vote For 1),Write-in,NON,130,0.12,146937,0,234,234,0,0
+34,Representative in the General Assembly 16th District (Vote For 1),DEM Robert F. Matzie,DEM,975,59.85,2100,0,3,3,0,0
+35,Representative in the General Assembly 16th District (Vote For 1),REP Rico Elmore,REP,651,39.96,2100,0,3,3,0,0
+36,Representative in the General Assembly 16th District (Vote For 1),Write-in,NON,3,0.18,2100,0,3,3,0,0
+37,Representative in the General Assembly 19th District (Vote For 1),DEM Jake Wheatley,DEM,21891,97.34,43353,0,86,86,0,0
+38,Representative in the General Assembly 19th District (Vote For 1),Write-in,NON,598,2.66,43353,0,86,86,0,0
+39,Representative in the General Assembly 20th District (Vote For 1),DEM Emily Kinkead,DEM,26873,94.54,48002,0,70,70,0,0
+40,Representative in the General Assembly 20th District (Vote For 1),Write-in,NON,1551,5.46,48002,0,70,70,0,0
+41,Representative in the General Assembly 21st District (Vote For 1),DEM Sara Innamorato,DEM,23448,66.22,47469,0,69,69,0,0
+42,Representative in the General Assembly 21st District (Vote For 1),REP John Waugh,REP,11886,33.57,47469,0,69,69,0,0
+43,Representative in the General Assembly 21st District (Vote For 1),Write-in,NON,76,0.21,47469,0,69,69,0,0
+44,Representative in the General Assembly 23rd District (Vote For 1),DEM Dan Frankel,DEM,24083,84.55,51748,0,62,62,0,0
+45,Representative in the General Assembly 23rd District (Vote For 1),GRN Jay Ting Walker,GRN,4094,14.37,51748,0,62,62,0,0
+46,Representative in the General Assembly 23rd District (Vote For 1),Write-in,NON,308,1.08,51748,0,62,62,0,0
+47,Representative in the General Assembly 24th District (Vote For 1),DEM Ed Gainey,DEM,28831,98.82,50301,0,90,90,0,0
+48,Representative in the General Assembly 24th District (Vote For 1),Write-in,NON,344,1.18,50301,0,90,90,0,0
+49,Representative in the General Assembly 25th District (Vote For 1),DEM Brandon J. Markosek,DEM,18743,58.04,43994,0,62,62,0,0
+50,Representative in the General Assembly 25th District (Vote For 1),REP John Ritter,REP,13489,41.77,43994,0,62,62,0,0
+51,Representative in the General Assembly 25th District (Vote For 1),Write-in,NON,62,0.19,43994,0,62,62,0,0
+52,Representative in the General Assembly 27th District (Vote For 1),DEM Dan Deasy,DEM,25281,96.04,43821,0,71,71,0,0
+53,Representative in the General Assembly 27th District (Vote For 1),Write-in,NON,1042,3.96,43821,0,71,71,0,0
+54,Representative in the General Assembly 28th District (Vote For 1),DEM Emily Skopov,DEM,20063,46.25,53284,0,46,46,0,0
+55,Representative in the General Assembly 28th District (Vote For 1),REP Rob Mercuri,REP,23279,53.66,53284,0,46,46,0,0
+56,Representative in the General Assembly 28th District (Vote For 1),Write-in,NON,38,0.09,53284,0,46,46,0,0
+57,Representative in the General Assembly 30th District (Vote For 1),DEM Lissa Geiger Shulman,DEM,18789,45.21,50709,0,60,60,0,0
+58,Representative in the General Assembly 30th District (Vote For 1),REP Lori Mizgorski,REP,22725,54.68,50709,0,60,60,0,0
+59,Representative in the General Assembly 30th District (Vote For 1),Write-in,NON,43,0.1,50709,0,60,60,0,0
+60,Representative in the General Assembly 32nd District (Vote For 1),DEM Tony DeLuca,DEM,29303,96.1,48348,0,68,68,0,0
+61,Representative in the General Assembly 32nd District (Vote For 1),Write-in,NON,1189,3.9,48348,0,68,68,0,0
+62,Representative in the General Assembly 33rd District (Vote For 1),DEM Frank Dermody,DEM,11072,47.83,30171,0,42,42,0,0
+63,Representative in the General Assembly 33rd District (Vote For 1),REP Carrie DelRosso,REP,12038,52,30171,0,42,42,0,0
+64,Representative in the General Assembly 33rd District (Vote For 1),Write-in,NON,40,0.17,30171,0,42,42,0,0
+65,Representative in the General Assembly 34th District (Vote For 1),DEM Summer Lee,DEM,26246,95.53,46353,0,78,78,0,0
+66,Representative in the General Assembly 34th District (Vote For 1),Write-in,NON,1229,4.47,46353,0,78,78,0,0
+67,Representative in the General Assembly 35th District (Vote For 1),DEM Austin Davis,DEM,20517,92.46,40330,0,84,84,0,0
+68,Representative in the General Assembly 35th District (Vote For 1),Write-in,NON,1674,7.54,40330,0,84,84,0,0
+69,Representative in the General Assembly 36th District (Vote For 1),DEM Jessica Benham,DEM,19441,62.43,44661,0,72,72,0,0
+70,Representative in the General Assembly 36th District (Vote For 1),REP AJ Doyle,REP,11642,37.39,44661,0,72,72,0,0
+71,Representative in the General Assembly 36th District (Vote For 1),Write-in,NON,55,0.18,44661,0,72,72,0,0
+72,Representative in the General Assembly 38th District (Vote For 1),DEM Nick Pisciottano,DEM,19680,55.75,46507,0,71,71,0,0
+73,Representative in the General Assembly 38th District (Vote For 1),REP Linda Book,REP,15545,44.04,46507,0,71,71,0,0
+74,Representative in the General Assembly 38th District (Vote For 1),Write-in,NON,73,0.21,46507,0,71,71,0,0
+75,Representative in the General Assembly 39th District (Vote For 1),DEM Sara-Summer Oliphant,DEM,11047,38.31,35995,0,41,41,0,0
+76,Representative in the General Assembly 39th District (Vote For 1),REP Mike Puskaric,REP,17750,61.56,35995,0,41,41,0,0
+77,Representative in the General Assembly 39th District (Vote For 1),Write-in,NON,39,0.14,35995,0,41,41,0,0
+78,Representative in the General Assembly 40th District (Vote For 1),DEM Sharon Guidi,DEM,11888,43.14,34163,0,37,37,0,0
+79,Representative in the General Assembly 40th District (Vote For 1),REP Natalie Mihalek,REP,15651,56.8,34163,0,37,37,0,0
+80,Representative in the General Assembly 40th District (Vote For 1),Write-in,NON,16,0.06,34163,0,37,37,0,0
+81,Representative in the General Assembly 42nd District (Vote For 1),DEM Dan Miller,DEM,24961,68.46,46781,0,68,68,0,0
+82,Representative in the General Assembly 42nd District (Vote For 1),REP Kurt Korinko,REP,11438,31.37,46781,0,68,68,0,0
+83,Representative in the General Assembly 42nd District (Vote For 1),Write-in,NON,61,0.17,46781,0,68,68,0,0
+84,Representative in the General Assembly 44th District (Vote For 1),DEM Michele Knoll,DEM,17675,45.03,51011,0,39,39,0,0
+85,Representative in the General Assembly 44th District (Vote For 1),REP Valerie Gaydos,REP,21528,54.84,51011,0,39,39,0,0
+86,Representative in the General Assembly 44th District (Vote For 1),Write-in,NON,52,0.13,51011,0,39,39,0,0
+87,Representative in the General Assembly 45th District (Vote For 1),DEM Anita Astorino Kulik,DEM,22239,61.7,47645,0,67,67,0,0
+88,Representative in the General Assembly 45th District (Vote For 1),REP Danny DeVito,REP,13740,38.12,47645,0,67,67,0,0
+89,Representative in the General Assembly 45th District (Vote For 1),Write-in,NON,65,0.18,47645,0,67,67,0,0
+90,Representative in the General Assembly 46th District (Vote For 1),DEM Byron Timmins,DEM,8112,41.64,24721,0,26,26,0,0
+91,Representative in the General Assembly 46th District (Vote For 1),REP Jason Ortitay,REP,11351,58.26,24721,0,26,26,0,0
+92,Representative in the General Assembly 46th District (Vote For 1),Write-in,NON,20,0.1,24721,0,26,26,0,0
+93,Representative in the General Assembly 54th District (Vote For 1),REP Bob Brooks,REP,7075,95.98,11384,0,11,11,0,0
+94,Representative in the General Assembly 54th District (Vote For 1),Write-in,NON,296,4.02,11384,0,11,11,0,0
+95,Pittsburgh HRC Amendment (Vote For 1),Yes,NON,114699,78.33,239845,0,402,402,0,0
+96,Pittsburgh HRC Amendment (Vote For 1),No,NON,31735,21.67,239845,0,402,402,0,0
